@@ -21,6 +21,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://jodawarehouse.com/index.html</loc>
+    <lastmod>2020-07-07T00:00:00+08:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://jodawarehouse.com/products.html</loc>
     <lastmod>2025-03-06</lastmod>
     <priority>1.0</priority>
